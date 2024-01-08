@@ -1,0 +1,10 @@
+.app {
+  text-align: center;
+}
+
+* {
+  background: black;
+  margin: 0 0;
+  padding: 0;
+  width: 100%;
+}
